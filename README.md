@@ -32,7 +32,7 @@ javafx.controls,javafx.fxml,javafx.web
 
 ### 2. Launching from Jar file
 Java and JavaFX runtime required on your local machine. Download
-`release\jar\NoteSets.jar` and run it from command line with
+`release\NoteSets.jar` and run it from command line with
 
 ```
 $ java --module-path %PATH_TO_FX% --add-modules
