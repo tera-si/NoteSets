@@ -19,7 +19,6 @@ some of NoteSets' features.
 - Java 11+
 - JavaFX / OpenJFX 11+
 - Jsoup
-- Jpackage
 
 ## Launch
 ### 1. Launching from source files
