@@ -57,6 +57,9 @@ The tutorial is embedded in
 NoteSets itself, simply select `Tutorial` from the `Help` menu when NoteSets is
 running. The tutorial walk you through the various features and uses of NoteSets.
 
+## TO-DO
+- Add `.noteset` file association
+
 ## FAQ
 ### Can I use NoteSets as an WYSIWYG html editor?
 NoteSets use JavaFX's built in HTMLEditor component as a text editor, so in
