@@ -53,12 +53,9 @@ javafx.controls,javafx.fxml,javafx.web -jar --enable-preview NoteSets.jar
   current status of the current note set.
 
 ## Tutorial
-[This NoteSets tutorial](src/app/resources/tutorial.html) introduces NoteSets'
-various feature and their uses.
-
-This very same tutorial is also embedded in
+The tutorial is embedded in
 NoteSets itself, simply select `Tutorial` from the `Help` menu when NoteSets is
-running.
+running. The tutorial walk you through the various features and uses of NoteSets.
 
 ## FAQ
 ### Can I use NoteSets as an WYSIWYG html editor?
