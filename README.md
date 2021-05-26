@@ -53,9 +53,11 @@ javafx.controls,javafx.fxml,javafx.web -jar --enable-preview NoteSets.jar
   current status of the current note set.
 
 ## Tutorial
-The tutorial is embedded in
+[The tutorial](https://tera-si.github.io/NoteSets/) walks you through the various features and uses of NoteSets.
+
+The very same tutorial is also embedded in
 NoteSets itself, simply select `Tutorial` from the `Help` menu when NoteSets is
-running. The tutorial walk you through the various features and uses of NoteSets.
+running.
 
 ## TO-DO
 - Add `.noteset` file association
