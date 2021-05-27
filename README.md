@@ -39,6 +39,14 @@ $ java --module-path %PATH_TO_FX% --add-modules
 javafx.controls,javafx.fxml,javafx.web -jar --enable-preview NoteSets.jar
 ```
 
+### 3. Install self-contained executable
+Currently only for Windows. Includes bundled runtime images of Java and JavaFX,
+thus no Java nor JavaFX runtime required on your local machine. Download and
+unzip `release\Win-Installer-1-0.zip`, `Win-Installer-1-0.z01` and `Win-Installer-1-0.z02`.
+Then use `Win-Installer-1-0.exe` to install NoteSets and its required runtime to your local machine.
+It will be installed to `C:\Program Files\NoteSets`. Desktop and start menu
+shortcuts also automatically generated upon install.
+
 ## Features
 - Group or categorize notes together by creating different note sets.
 - Text formatting available (e.g. Bold, italics, indentation, lists, color).
